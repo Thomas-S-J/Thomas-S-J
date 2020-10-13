@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with stuff
 - 💬 Ask me about nothing
 - 📫 How to reach me: Email
-- ⚡ Fun fact: I'm new to this. Thats why this profile is so silly 
+- ⚡ Fun fact: I'm a pokemon fan 
 - :smiley: Have fun.
