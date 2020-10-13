@@ -1,6 +1,4 @@
 ### Hi there 👋
-<!--
-**Thomas-S-J/Thomas-S-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,6 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with stuff
 - 💬 Ask me about nothing
 - 📫 How to reach me: Email
-- 😄 Pronouns: He, him
 - ⚡ Fun fact: I'm new to this. Thats why this profile is so silly 
---> Have fun.
+- :smiley: Have fun.
