@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email
 - ⚡ Fun fact: I'm a pokemon fan 
 - :smiley: Have fun.
+> If debugging is the process of removing software bugs,
+> Programming must be the process of adding them.
