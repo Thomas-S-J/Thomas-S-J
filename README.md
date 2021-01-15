@@ -2,6 +2,6 @@
 
 <img src="https://img.pokemondb.net/sprites/black-white/normal/aipom-f.png" height=60>   I’m a CS student, just doing things for fun.  
 <img src="https://img.pokemondb.net/sprites/x-y/normal/alakazam-mega.png" height=60>   I’m currently trying to figure out how to make a decent profile README page   
-<img src="https://img.pokemondb.net/sprites/black-white/normal/luxray-f.png" height=60>   I'm always willing to work on something cool (ig :stuck_out_tongue_winking_eye:).  
+<img src="https://img.pokemondb.net/sprites/black-white/normal/magikarp-f.png" height=60>   I'm always willing to work on something cool (ig :stuck_out_tongue_winking_eye:).  
 <img src="https://img.pokemondb.net/sprites/black-white/normal/psyduck.png" height=60>  How to get contact me: Email  
 <img src="https://img.pokemondb.net/sprites/black-white/normal/snorlax.png" height=60>   Have fun.  
